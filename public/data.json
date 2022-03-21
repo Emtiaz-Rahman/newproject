@@ -1,0 +1,38 @@
+[
+    {
+      "id": "6238614933e54523c3198cd9",
+      "price": 364,
+      "eyeColor": "brown",
+      "name": "Estes Hale"
+    },
+    {
+      "id": "6238614928ce40163e79d190",
+      "price": 59,
+      "eyeColor": "brown",
+      "name": "Shelia Huber"
+    },
+    {
+      "id": "62386149f571edf823bdf23e",
+      "price": 278,
+      "eyeColor": "green",
+      "name": "Penelope Bryan"
+    },
+    {
+      "id": "62386149ca947a64029ed5f5",
+      "price": 385,
+      "eyeColor": "green",
+      "name": "Chasity Duncan"
+    },
+    {
+      "id": "62386149e46da277e0b59fe7",
+      "price": 178,
+      "eyeColor": "blue",
+      "name": "Shelton Jacobson"
+    },
+    {
+      "id": "623861492c6f1f92c8bd33bf",
+      "price": 182,
+      "eyeColor": "brown",
+      "name": "Annabelle Flores"
+    }
+  ]
