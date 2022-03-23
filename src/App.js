@@ -1,11 +1,13 @@
 
 import './App.css';
-import Cosmetic from './components/Cosmetic/Cosmetic';
+import Header from './components/Header/Header';
+
+
 
 function App() {
   return (
-    <div className="App">
-      <Cosmetic></Cosmetic>
+    <div>
+      <Header></Header>
 
     </div>
   );
