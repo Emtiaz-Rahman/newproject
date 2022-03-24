@@ -11,8 +11,10 @@ const Product = (props) => {
                 <p>Seller:{seller}</p>
                 <p>Price:{price}</p>
                 <p>Ratings{ratings}</p>
-
             </div>
+            <button className='btn-cart'>
+                <p>Add to Cart</p>
+            </button>
         </div>
     );
 };
